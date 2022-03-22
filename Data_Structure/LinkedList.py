@@ -1,7 +1,6 @@
 # To create a linked List
 
-from tkinter.messagebox import NO
-
+# Create a node class
 
 class Node:
     def __init__(self,data):
